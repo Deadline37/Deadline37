@@ -43,7 +43,7 @@
 
 | Название | Описание | Технологии | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **Документация** | Примеры чек-листа, тест-кейса и баг-репорта. | `Test IT` `Excel` | [Смотреть →](https://drive.google.com/your-link) |
+| **Документация** | Примеры тестовой документации. | `Test IT` `Excel` | • [Чек-лист](Doc_Example/check_list.xlsx) <br> • [Тест-кейс](Doc_Example/test_case.xlsx) <br> • [Баг-репорт](Doc_Example/bug_report.xlsx) |
 | **Коллекция Postman** | Готовые коллекции запросов для smoke-тестирования и проверки API. Используется командой. | `Postman` | [Экспорт →](https://www.postman.com/your-workspace) |
 
 ---
