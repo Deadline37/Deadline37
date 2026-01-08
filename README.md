@@ -41,7 +41,7 @@
 
 | Название | Описание | Технологии | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **Документация** | Примеры тестовой документации. | `Test IT` `Excel` | • [Чек-лист](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/check_list.xlsx) <br> • [Тест-кейс](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/test_case.xlsx) <br> • [Баг-репорт](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/bug_report.xlsx) |
+| **Документация** | Примеры тестовой документации. | `Test IT` `Excel` | • [Чек-лист](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/check_list.xlsx) <br> • [Тест-кейс](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/test_case.xlsx) <br> • [Репорт](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/bug_report.xlsx) |
 | **Коллекция Postman** | Готовая коллекция запросов для тестирования и проверки API. Используется командой. | `Postman` | [Экспорт →](https://www.postman.com/your-workspace) |
 
 ---
