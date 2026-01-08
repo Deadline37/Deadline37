@@ -33,10 +33,10 @@
 
 | Категория | Инструменты |
 | :--- | :--- |
-| **Тест-менеджмент & Баг-трекинг** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) ![TestRail](https://img.shields.io/badge/-TestRail-65C178?style=flat) ![Qase](https://img.shields.io/badge/-Qase-03A9F4?style=flat) |
-| **Тестирование API & Автоматизация** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest) |
-| **Тестирование Веб & Мобильных приложений** | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium) ![BrowserStack](https://img.shields.io/badge/-BrowserStack-0D8BFF?style=flat) |
-| **Базы данных & DevOps** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab) |
+| **Тест-менеджмент & Баг-трекинг** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Test IT](https://img.shields.io/badge/-Test_IT-2F6BFF?style=flat&logo=&logoColor=white) |
+| **Тестирование API** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
+| **Тестирование Веб & Мобильных приложений** | ![Chrome DevTools](https://img.shields.io/badge/-Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) |
+| **Базы данных & Системы контроля версий** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ---
 
