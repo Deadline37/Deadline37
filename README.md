@@ -47,22 +47,22 @@
 ### 📸 Примеры тест-кейсов
 
 <p align="center">
-  <img src="Doc_Example/Images/chrome_GtypplIUn0.png" width="600">
-  <img src="Doc_Example/Images/chrome_JAkAvQYIWj.png" width="600">
+  <img src="Doc_Example/Images/chrome_GtypplIUn0.png" width="400">
+  <img src="Doc_Example/Images/chrome_JAkAvQYIWj.png" width="400">
 </p>
 
 <p align="center">
-  <img src="Doc_Example/Images/chrome_caxDlQAtWM.png" width="600">
-  <img src="Doc_Example/Images/chrome_dXycCno3cG.png" width="600">
+  <img src="Doc_Example/Images/chrome_caxDlQAtWM.png" width="400">
+  <img src="Doc_Example/Images/chrome_dXycCno3cG.png" width="400">
 </p>
 
 <p align="center">
-  <img src="Doc_Example/Images/chrome_lxVCAdHuGK.png" width="600">
-  <img src="Doc_Example/Images/chrome_n0Oi7pNRoz.png" width="600">
+  <img src="Doc_Example/Images/chrome_lxVCAdHuGK.png" width="400">
+  <img src="Doc_Example/Images/chrome_n0Oi7pNRoz.png" width="400">
 </p>
 
 <p align="center">
-  <img src="Doc_Example/Images/chrome_smGPQCQsHx.png" width="600">
+  <img src="Doc_Example/Images/chrome_smGPQCQsHx.png" width="400">
 </p>
 
 | Название | Описание | Технологии | Ссылка |
