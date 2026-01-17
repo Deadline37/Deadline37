@@ -68,7 +68,7 @@
 
 | Название | Описание | Технологии | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **Документация** | Примеры тестовой документации. | `Test IT` `Excel` | [check-list](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/check_list (1).xlsx) <br> [test-case](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/test_case.xlsx) <br> [report](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/Bug_Report_Capital_com_exact_v2.xlsx) |
+| **Документация** | Примеры тестовой документации. | `Test IT` `Excel` | [check-list](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/check_list(1).xlsx) <br> [test-case](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/test_case.xlsx) <br> [report](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/Bug_Report_Capital_com_exact_v2.xlsx) |
 | **Коллекция Postman** | Часть коллекции запросов для тестирования и проверки API. Используется командой. | `Postman` | [Экспорт →](https://www.postman.com/speeding-satellite-290820/workspace/geo-agro/collection/38478114-eeecadbf-1286-4da3-a541-7f828fb67b84?action=share&creator=38478114) |
 
 
