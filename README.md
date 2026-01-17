@@ -65,6 +65,8 @@
   <img src="Doc_Example/Images/chrome_smGPQCQsHx.png" width="400">
 </p>
 
+### 📁 Портфолио
+
 | Название | Описание | Технологии | Ссылка |
 | :--- | :--- | :--- | :--- |
 | **Документация** | Примеры тестовой документации. | `Test IT` `Excel` | [check-list](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/check_list.xlsx) <br> [test-case](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/test_case.xlsx) <br> [report](https://raw.githubusercontent.com/Deadline37/Deadline37/main/Doc_Example/Bug_Report_Capital_com_exact_v2.xlsx) |
