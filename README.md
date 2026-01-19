@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://t.me/sidemap">Telegram</a> •
+  <a href="https://t.me/sidemap">Telegram</a> 
 </p>
 
 ---
