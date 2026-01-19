@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://t.me/sidemap">Telegram</a> •
-  <a href="https://linkedin.com/in/timur-fazylov-244b163a1">LinkedIn</a> 
 </p>
 
 ---
